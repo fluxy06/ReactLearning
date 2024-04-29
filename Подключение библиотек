@@ -1,3 +1,6 @@
 #скрипты которые подключают React библиотеку, добавлять в файле index.html(главная страничка в теге <head>)
 <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+#ссылка на сайт откуда взял: https://ru.legacy.reactjs.org/docs/cdn-links.html
+#также требуется еще один сайт: https://babeljs.io/docs/babel-standalone
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
